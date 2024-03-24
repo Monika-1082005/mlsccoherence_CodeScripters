@@ -8,7 +8,7 @@ import SignUp from './SignUp'
 
 const navigation = [
   { name: 'Home', href: '/', current: true },
-  { name: 'Dashboard', href: '#', current: false },
+  { name: 'Dashboard', href: 'https://a5hwarya5.github.io/Dashboard/#/dashboard', current: false },
   { name: 'Challenges', href: '#', current: false },
   { name: 'About Us', href: '#', current: false },
   { name: 'Contact', href: '#', current: false },
